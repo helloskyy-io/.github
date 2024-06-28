@@ -1,5 +1,5 @@
 <main>
-	<img src="profile/frame_002.jpg" alt="Logo">	
+	<img src="frame_002.jpg" alt="Logo">	
     <h1>Welcome to Hello Skyy. We are glad you found us.</h1>
 
 <p>The purpose of Hello Skyy is To provide a central hub, on decentralized infrastructure, in order to educate,
