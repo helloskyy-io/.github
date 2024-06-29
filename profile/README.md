@@ -1,20 +1,16 @@
-<main>
-	<img src="frame_002.jpg" alt="Logo">	
-    <h1>Welcome to Hello Skyy. We are glad you found us.</h1>
+# website
 
-<p>The purpose of Hello Skyy is To provide a central hub, on decentralized infrastructure, in order to educate,
-document, and assemble the information, tools, and collaborative development space needed, as we explore an
-alternative to the control over people that big tech companies employ as a lucrative business model. We
-want to offer an alternative to big tech, and teach people how to choose freedom and privacy over
-convenience by exploring web3, blockchain, decentralization, and open source technologies.</p>
+![Logo](/assets/frame_002.jpg)
 
-<p>learn more at:</p>
-<h1><a href="https://web.helloskyy.io">helloskyy.io</a></h1>
-<p>join the discord:</p>
-<h1><a href="https://discord.io/techdufus">https://discord.io/techdufus</a></h1>
+# Welcome to Hello Skyy
 
-</main>
-<!--
+The purpose of **Hello Skyy** is To provide a central hub, on decentralized infrastructure, to educate, document, and assemble the information, tools, and collaborative development space needed, for exploring alternatives to big tech companies. We want to offer viable options to mainstream tech solutions and empower individuals to choose freedom and privacy over convenience by exploring web3, blockchain, decentralization, and open source technologies.
+
+- [Learn more about us](https://web.helloskyy.io)
+- [Join our Discord](https://discord.io/techdufus)
+
+
+<!-- 
 
 **Here are some ideas to get you started:**
 
@@ -23,4 +19,5 @@ convenience by exploring web3, blockchain, decentralization, and open source tec
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ -->
+
